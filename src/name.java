@@ -24,7 +24,9 @@ public class name {
        System.out.println("哈哈哈");
        System.out.println("哈哈哈");
        System.out.println("哈哈哈");
-       
+       for (String string : args) {
+        System.out.println("12345");
+    }
 
     }
 
