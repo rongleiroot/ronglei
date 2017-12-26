@@ -18,7 +18,7 @@ public class name {
 
     public static void main(String[] args) {
 
-        //  Auto-generated method stub
+       System.out.println("哈哈哈");
 
     }
 
